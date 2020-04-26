@@ -44,14 +44,14 @@ body {
 @keyframes animate-wish {
   0% {
     color: black;
-    margin-bottom: -9%;
+    margin-bottom: -8%;
   }
   30% {
     letter-spacing: 25px;
-    margin-bottom: -9%;
+    margin-bottom: -8%;
   }
   80% {
-    margin-bottom: -9%;
+    margin-bottom: -8%;
   }
 }
 
